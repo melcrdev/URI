@@ -13,5 +13,7 @@ public class URI1017 {
         double litros = km / 12;
 
         System.out.printf("%.3f%n", litros);
+        
+        sc.close();
     }
 }
